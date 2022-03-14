@@ -1,6 +1,7 @@
 ## sobre mim
 
-- 👋 EAE meu nome é @JHONTIN
+- 👋 EAE meu nome é **@JHONTIN**
+- 🤖 meu email de contato **[email](jhonatanknoppt@gmail.com)**
 - 👀 EU estou interessado em aprender a programar
 - 🌱 ESTOU aprendendo a progaramar
 - 🤝 TENHO 14 anos
